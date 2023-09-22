@@ -1,1 +1,12 @@
+
+body{
+	width:1100px;
+}
+
+tr:first-child, tr:last-child{
+	width:200px;
+}
+tr:nth-child[2]{
+	width:600px;
+}
 /*  your css code here. If applicable */
